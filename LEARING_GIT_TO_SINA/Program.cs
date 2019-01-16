@@ -6,6 +6,8 @@
 		{
 			System.Console.WriteLine("Hello, World!");
 
+			System.Console.WriteLine();
+			System.Console.Write("Press [ENTER] To Exit...");
 			System.Console.ReadLine();
 		}
 	}
